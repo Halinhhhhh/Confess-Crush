@@ -1,6 +1,6 @@
 const CONFIG = {
     titleWeb: "Pettcuteeeee",
-    introTitle: 'lê Tiến Quang',
+    introTitle: 'Lê Tiến Quang',
     introDesc: `Trái đất vốn lạ thường
     Mà sao em cứ đi nhầm đường
     Lạc vào tim anh lẻ loi
@@ -16,4 +16,4 @@ const CONFIG = {
     mess: 'Mình biết mà 🥰. Yêu bạn nhiều nhiều 😘😘',
     messDesc: 'Còn chần chừ gìii mà khum inbox cho mình iiii.',
     btnAccept: 'Okiiiii lun <3',
-    messLink: 'https://www.facebook.com/dhalinh230807
+    messLink: 'https://www.facebook.com/dhalinh230807'
