@@ -17,4 +17,4 @@ const CONFIG = {
     messDesc: 'Còn chần chừ gìii mà khum inbox cho mình iiii.'
     btnAccept: 'Okiiiii lun <3'
     messLink: 'https://www.facebook.com/dhalinh230807'
-    }
+ }
